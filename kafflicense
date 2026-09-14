@@ -1,1 +1,14 @@
-{}
+{
+  "keys": {
+    "KAFF-2026-001": {
+      "active": true,
+      "owner": "single era",
+      "expires_at": "2026-12-31T23:59:59+00:00"
+    },
+    "KAFF-2026-002": {
+      "active": false,
+      "owner": "example",
+      "expires_at": "2026-12-31T23:59:59+00:00"
+    }
+  }
+}
